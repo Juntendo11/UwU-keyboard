@@ -1,3 +1,10 @@
+/* Giant UwU keyboard by Juntendo (Juichi Nishimura) https://www.youtube.com/channel/UC73LkQJ47rRI07iMOzu7-5g
+I referenced code from several sources listed below:
+https://circuitjournal.com/how-to-use-the-dfplayer-mini-mp3-module-with-an-arduino
+https://stackoverflow.com/questions/59394851/how-to-create-a-rainbow-wave-on-led-strip-using-arduino
+*/
+
+
 #include <SoftwareSerial.h>
 #include <DFRobotDFPlayerMini.h>
 #include <FastLED.h>
